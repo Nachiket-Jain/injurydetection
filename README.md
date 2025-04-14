@@ -1,0 +1,1 @@
+This repository includes three key components designed for a computer vision-based system for 3D pose detection and injury prediction. The system utilizes MediaPipe and OpenCV for real-time pose analysis and applies machine learning models to predict the risk of injuries.
